@@ -1,0 +1,4 @@
+1. Start XAMPP control panel.
+2. Import file database ke localhost/phpmyadmin .
+3. Copy semua file source code, paste di folder xampp - htdocs.
+4. Untuk mengakses di browser, ketikan localhost/(nama file).php
